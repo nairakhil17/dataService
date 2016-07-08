@@ -1,0 +1,7 @@
+com/springapp/mvc/dao/GenericDao.class
+com/springapp/mvc/dao/EmployeeHibernate.class
+com/springapp/mvc/service/MyDataServiceImpl.class
+com/springapp/mvc/service/MyDataService.class
+com/springapp/mvc/model/Employee.class
+com/springapp/mvc/model/Department.class
+com/springapp/mvc/dao/GenericDaoHibernate.class

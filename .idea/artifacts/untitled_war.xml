@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" build-on-make="true" name="untitled:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="untitled.war">
+    <root id="archive" name="myDataService.war">
       <element id="artifact" artifact-name="untitled:war exploded" />
     </root>
   </artifact>
